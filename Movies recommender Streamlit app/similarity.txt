@@ -1,0 +1,1 @@
+similarity func had been removed becouse of github space limitation
